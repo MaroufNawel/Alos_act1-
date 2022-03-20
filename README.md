@@ -1,6 +1,7 @@
 # Alos_act1-
 
-	Nous avons installé Node.js, le JSON server, REST et UNIREST. Puis nous avons introduit un code JS sur Generator, pour générer notre base de données qui
+	
+   Nous avons installé Node.js, le JSON server, REST et UNIREST. Puis nous avons introduit un code JS sur Generator, pour générer notre base de données qui
   contient des enregistrements de 100 personnes capables de donner du sang.
   La base de données est contenue dans le fichier db.json. 
   Nous avons lancé le service json-server --watch db.json pour obtenir notre lien http://localhost:3000/Donneurs.
